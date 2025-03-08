@@ -25,7 +25,7 @@ A powerful clipboard manager built with Electron and Next.js that allows you to 
 
 ## Usage
 
-- Use the global shortcut (Alt+Space) to open the clipboard manager
+- Use the custom global shortcut default (Alt+/) to open the clipboard manager
 - Click on any item to copy it back to your clipboard
 - Right-click items for additional options (favorite, delete, export, etc.)
 - Use the search bar to find specific items
