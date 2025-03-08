@@ -12,7 +12,7 @@ A powerful clipboard manager built with Electron and Next.js that allows you to 
 - 🎨 Modern and intuitive interface
 - 🔄 Export and share clipboard items
 - 🔒 Local database storage for privacy
-- ⌨️ Global shortcut to quickly access clipboard history (Alt+Space)
+- ⌨️ Custom Global shortcut to quickly access clipboard history default (Alt+/)
 - 🚀 Auto-start on system boot
 
 ## Installation
