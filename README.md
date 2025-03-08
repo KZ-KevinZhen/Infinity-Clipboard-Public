@@ -58,4 +58,4 @@ infinity-clipboard/
 
 ## Team
 - **Kevin Zhen** – Founder & Lead Developer
-- **Hensen Hy** – Contributor
+- **Hensen Hy** – Marketing & Contributor
