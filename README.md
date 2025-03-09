@@ -23,6 +23,7 @@ A powerful clipboard manager built with Electron and Next.js that allows you to 
 3. Follow the installation wizard
 4. Launch Infinity Clipboard from your Start menu
 
+[![Watch the video](https://www.youtube.com/watch?v=OsXfHiml994)
 
 [![Watch the video](https://img.youtube.com/vi/OsXfHiml994/maxresdefault.jpg)](https://www.youtube.com/watch?v=OsXfHiml994)
 
