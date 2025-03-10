@@ -4,7 +4,7 @@ A powerful clipboard manager built with Electron and Next.js that allows you to 
 
 ## Team
 - **Kevin Zhen** – Founder &  Leader Developer
-- **Hensen Hy** – Business Relations / Marketing & Development
+- **Hensen Hy** –  Software Developer & Marketing
 
 ## Features
 
