@@ -2,6 +2,10 @@
 
 A powerful clipboard manager built with Electron and Next.js that allows you to store, organize, and manage your clipboard history.
 
+## Team
+- **Kevin Zhen** – Founder &  Leader Developer
+- **Hensen Hy** – Buisness Relations / Marketing & Developer
+
 ## Features
 
 - 📋 Infinite clipboard history
@@ -62,6 +66,3 @@ infinity-clipboard/
 └── out/            # Production build output
 ```
 
-## Team
-- **Kevin Zhen** – Founder & Lead Developer
-- **Hensen Hy** – Marketing & Contributor
